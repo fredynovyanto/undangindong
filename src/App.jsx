@@ -345,7 +345,7 @@ function App() {
             <p>
               Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila
               Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan doa restu
-              kepada kedua mempela
+              kepada kedua mempelai
             </p>
           </AnimatedText>
           <AnimatedText className="font-bold text-4xl mb-5">
@@ -457,7 +457,7 @@ function App() {
           <AnimatedText className="mb-5">
             <Gift
               name="Fitriana/Donny"
-              phone="081234567890"
+              phone="089631717764"
               address="Jl. AMD Pegandon RT 02 RW 01, Pegandon, Kendal, Jawa Tengah"
             />
           </AnimatedText>
