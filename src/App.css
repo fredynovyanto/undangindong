@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+  /* background-color: #fbfaf8; */
+  color: #2d303c;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Lora", sans-serif;
+}
