@@ -442,8 +442,8 @@ function App() {
           </AnimatedText>
           <AnimatedText className="mb-5">
             <BankCard
-              bankName="Bank BCA"
-              accountNumber="8940510733"
+              bankName="Bank BRI"
+              accountNumber="5910 0101 0547 501"
               accountName="Fitriana Teguh Rahayu"
             />
           </AnimatedText>
